@@ -52,7 +52,7 @@ The data contains the different attributes of customers' booking details. The de
 ## **Exploratory Data Analysis**
 
 Plot the histogram and box plot for the variable `Lead Time` using the hist_box function is showed:
-<img align="center" width="350" src="img/Lead_Time.jpg">
+<img align="center" width="450" src="img/Lead_Time.jpg">
 
 ## **Summary and Recommendation:**
 The analyses pointed at the importance of lead_time, market_segment_type_Online, no_of_special_requests, avg_price_per_room to be reconsiderd as the improvement recomendations to the business how how to minimize the number of cancelations as below:
