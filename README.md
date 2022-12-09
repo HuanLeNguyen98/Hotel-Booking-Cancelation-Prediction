@@ -3,6 +3,7 @@
 ---------------
 ## **Problem Statement**
 
+### **Context**
 
 **A significant number of hotel bookings are called off due to cancellations or no-shows.** Typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost. This may be beneficial to hotel guests, but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with. Such losses are particularly high on last-minute cancellations.
 
@@ -49,3 +50,12 @@ The data contains the different attributes of customers' booking details. The de
 * **avg_price_per_room:** Average price per day of the reservation; prices of the rooms are dynamic. (in euros)
 * **no_of_special_requests:** Total number of special requests made by the customer (e.g. high floor, view from the room, etc)
 * **booking_status:** Flag indicating if the booking was canceled or not.
+* 
+**Summary and Recommendation:**
+The analyses pointed at the importance of lead_time, market_segment_type_Online, no_of_special_requests, avg_price_per_room to be reconsiderd as the improvement recomendations to the business how how to minimize the number of cancelations as below:
+
+1. Offer lower price for prepaid online booking with Non-refundable or higher price per room with cancelation option. Also offer credit for Corporate bookings and charge percentage penalty for cancellation. 
+2. For royal customers since the cancellation among them is very less, consider to promote room upgrade and spcial discount to encourage them to come back
+3. Offer more options for customers' special requests to reduce the possibilities of cancelations. They can do so by improving their customer service, such as being able to cater to most of the customers’ special requests.
+4. Make sure to have a solid cancelation polycy in place and also applied for longer lead time in order to reduce hotel cancelation
+
