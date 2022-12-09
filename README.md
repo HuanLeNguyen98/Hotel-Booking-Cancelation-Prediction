@@ -50,7 +50,6 @@ The data contains the different attributes of customers' booking details. The de
 * **booking_status:** Flag indicating if the booking was canceled or not.
 * 
 ## **Summary and Recommendation:**
-*
 The analyses pointed at the importance of lead_time, market_segment_type_Online, no_of_special_requests, avg_price_per_room to be reconsiderd as the improvement recomendations to the business how how to minimize the number of cancelations as below:
 
 1. Offer lower price for prepaid online booking with Non-refundable or higher price per room with cancelation option. Also offer credit for Corporate bookings and charge percentage penalty for cancellation. 
