@@ -29,6 +29,10 @@ Plot the histogram and box plot for the variable `Lead Time` using the hist_box 
 
 The Lead_time is right skewed on the its distribution. Many customers have made their booking in the same day of avrival. Also there are some customers made their booking more than 400 days in advance
 
+<img align="center" width="450" src="img/Hotel Booking Heat Map.jpg">
+
+As observed, there's a positive correlation between no_of_adults,and no_of_children vs. the average price per room. The more number of people, the more room space they will require so it will increasethe cost. There's a negative correlation between repeated guests vs average room price. The hotel might be giving some loyalty benefits to the customers. Also, there is a positive correlation between Lead_time and the booking_status. This indicates that higher the lead time higher are the chances of cancellation.
+
 ## **Summary and Recommendation:**
 The analyses pointed at the importance of lead_time, market_segment_type_Online, no_of_special_requests, avg_price_per_room to be reconsiderd as the improvement recomendations to the business how how to minimize the number of cancelations as below:
 
