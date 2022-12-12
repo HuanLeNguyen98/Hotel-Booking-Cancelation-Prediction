@@ -27,6 +27,8 @@ The data contains the different attributes of customers' booking details can be 
 Plot the histogram and box plot for the variable `Lead Time` using the hist_box function is showed:
 <img align="center" width="450" src="img/Lead_Time.jpg">
 
+The Lead_time is right skewed on the its distribution. Many customers have made their booking in the same day of avrival. Also there are some customers made their booking more than 400 days in advance
+
 ## **Summary and Recommendation:**
 The analyses pointed at the importance of lead_time, market_segment_type_Online, no_of_special_requests, avg_price_per_room to be reconsiderd as the improvement recomendations to the business how how to minimize the number of cancelations as below:
 
