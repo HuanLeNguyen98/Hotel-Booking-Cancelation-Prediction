@@ -2,10 +2,8 @@
 
 ---------------
 ## **Problem Statement**
-
+<img align="right" width="350" src="img/HotelBooking1.jpg">
 **A significant number of hotel bookings are called off due to cancellations or no-shows.** Typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost. This may be beneficial to hotel guests, but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with. Such losses are particularly high on last-minute cancellations.
-
-<img align="center" width="650" src="img/HotelBooking1.jpg">
 
 The new technologies involving online booking channels have dramatically changed customers’ booking possibilities and behavior. This adds a further dimension to the challenge of how hotels handle cancellations, which are no longer limited to traditional booking and guest characteristics.
 
